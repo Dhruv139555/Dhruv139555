@@ -12,7 +12,7 @@
 
 # 🧠 About Me
 
-🎓 B.Tech (Artificial Intelligence) | Parul University  
+🎓 B.Tech (Artificial Intelligence) | Parul University  (Present)
 📍 Ahmedabad, India  
 
 Aspiring AI Engineer with hands-on experience in Machine Learning, Data Analytics, and AI-driven research.  
