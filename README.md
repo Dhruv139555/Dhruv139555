@@ -12,14 +12,14 @@
 
 # 🧠 About Me
 
-🎓 B.Tech (Artificial Intelligence) | Parul University  (Present)
+🎓 B.Tech (Artificial Intelligence) | Parul University 
 📍 Ahmedabad, India  
 
 Aspiring AI Engineer with hands-on experience in Machine Learning, Data Analytics, and AI-driven research.  
 
 Currently working as:
 
-- 🔬 **Data Science Intern – SkillOrbit (2026–Present)**
+- 🔬 **Data Science Intern – SkillOrbit (2026)**
 - 🤖 **Machine Learning Intern – Cognifyz Technologies (2025)**
 
 Passionate about building intelligent systems that improve efficiency, reduce costs, and solve real-world problems.
@@ -28,7 +28,7 @@ Passionate about building intelligent systems that improve efficiency, reduce co
 
 # 💼 Professional Experience
 
-## 🔹 Data Science Intern — SkillOrbit (2026–Present)
+## 🔹 Data Science Intern — SkillOrbit (2026)
 
 - Applied statistical analysis & data visualization on complex datasets  
 - Built data-driven insights for business decision-making  
